@@ -1,6 +1,6 @@
 # Laboratório Airflow
 
-Este repositório é parte do projeto https://github.com/danimulller/projeto-final-bigdata.
+Este repositório é parte do projeto https://github.com/danimulller/projeto-final-bigdata, e suas instruções devem ser realizadas previamente.
 
 ## Inicializar o Ambiente
 
