@@ -1,4 +1,4 @@
 requests
-psycopg2-binary
-apache-airflow-providers-jdbc
 apache-airflow-providers-amazon
+boto3
+botocore
